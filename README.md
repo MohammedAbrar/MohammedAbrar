@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedAbrar
 - 👀 I’m interested in Web Development - .Net, .Net Core, ReactJS
 - 🌱 I’m currently learning React, GraphQL
-- 💞️ I’m looking to collaborate on C# .Net(Web/Desktop) projects and React Web projects.
+- 💞️ I’m looking to collaborate on Azure .Net projects and React projects.
 - 📫 How to reach me mohammedabrar266@gmail.com
 
 <!---
