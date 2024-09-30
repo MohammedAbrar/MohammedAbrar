@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedAbrar
-- 👀 I’m interested in Web Development - .Net Core, ReactJS and Azure PaaS.
-- 🌱 I’m currently learning React, GraphQL
-- 💞️ I’m looking to collaborate on Azure .Net projects and React projects.
+- 👀 I’m interested in Cloud Solution Architecture, AI & ML.
+- 🌱 I’m currently learning Data Science, AI & ML
+- 💞️ I’m looking to collaborate on Azure PaaS, Cloud solutions like IoT.
 - 📫 How to reach me mohammedabrar266@gmail.com
 
 <!---
