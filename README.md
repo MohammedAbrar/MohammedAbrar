@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abrar
-- 👀 I’m workingd in Cloud Solution Architecture.
+- 👀 I’m working in Cloud Solution Architecture.
 - 🌱 I’m currently learning Data Science, AI & ML
 - 💞️ I’m looking to collaborate on Azure PaaS, Cloud & IoT solutions, Data Analytics.
 - 📫 I am reachable at mohammedabrar266@gmail.com
