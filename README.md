@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abrar
-- 👀 I’m interested in Cloud Solution Architecture, AI & ML.
+- 👀 I’m workingd in Cloud Solution Architecture.
 - 🌱 I’m currently learning Data Science, AI & ML
-- 💞️ I’m looking to collaborate on Azure PaaS, Cloud solutions like IoT.
+- 💞️ I’m looking to collaborate on Azure PaaS, Cloud & IoT solutions, Data Analytics.
 - 📫 I am reachable at mohammedabrar266@gmail.com
 
 <!---
